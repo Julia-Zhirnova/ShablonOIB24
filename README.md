@@ -22,7 +22,7 @@ ____
     - [ ] [полуфинал «Траектории будущего»](https://t.me/luberteh/6770)
 - [ ] Сертификаты: создайте папку "Сертификаты" на СВОЕМ гугл диске, в ней должны быть папки с указанием конкурса и года (пример: Траектория будущего 24-25)
     - [ ] [Скрины результатов](http://example.com)          
-          <img src="https://github.com/user-attachments/assets/6bfbacac-6292-4912-9760-b6b4bd313237" alt="Пример скрина" height="200" />
+          <img src="https://github.com/user-attachments/assets/6bfbacac-6292-4912-9760-b6b4bd313237" alt="Пример скрина" height="100" />
     - [ ] [Сертификат отборочного этапа по номинации "Название номинации" (только те, где написано сдано, и в формате pdf)](http://example.com)
-          <img src="https://github.com/user-attachments/assets/507acbcd-62ab-4071-824b-bd6c733cd28c" alt="Пример сертификата" height="200" />
+          <img src="https://github.com/user-attachments/assets/507acbcd-62ab-4071-824b-bd6c733cd28c" alt="Пример сертификата" height="100" />
     - [ ] [Сертификат полуфинала по номинации "Название номинации" в формате pdf](http://example.com)
