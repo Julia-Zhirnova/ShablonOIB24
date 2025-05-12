@@ -48,6 +48,6 @@ ____
     - [ ] [Сертификат отборочного этапа по номинации "Название номинации" (только те, где написано сдано, и в формате pdf)](http://example.com)
           <img src="https://github.com/user-attachments/assets/507acbcd-62ab-4071-824b-bd6c733cd28c" alt="Пример сертификата" height="100" />
     - [ ] [Сертификат полуфинала по номинации "Название номинации" в формате pdf](http://example.com)
-    - [ ] [Проверить профиль в Якласс и приложить сертификат в формате pdf](https://www.yaklass.ru/) 
+    - [ ] [Проверить профиль в Якласс и приложить сертификат в формате pdf](https://www.yaklass.ru/)
           <img src="https://github.com/user-attachments/assets/884d4fa3-e347-4daa-90bd-7e1e394b91ca" alt="Пример сертификата" height="100" />
 
