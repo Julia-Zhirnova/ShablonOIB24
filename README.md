@@ -36,7 +36,7 @@ ____
         - [ ] 3 способа загрузки файлов
         - [ ] Код по созданию сводной таблицы
      
-## Работа с Python
+## Работа с Bash
 ____
 - [ ] [Практическая 1: скрины и пояснения](http://example.com)
     <img src="https://github.com/user-attachments/assets/f2eaed6a-8115-44b2-a7b0-3f0240d8a262" alt="Практическая 1" height="100" />
