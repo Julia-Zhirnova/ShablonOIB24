@@ -40,11 +40,15 @@ ____
      
 ## Работа с Bash
 ____
+Должны быть ссылки на гугл документы, в которых скрины и пояснения
 - [ ] [Практическая 1: скрины и пояснения](http://example.com)
-    <img src="https://github.com/user-attachments/assets/f2eaed6a-8115-44b2-a7b0-3f0240d8a262" alt="Практическая 1" height="100" />
-- [ ] 
+      <br><img src="https://github.com/user-attachments/assets/f2eaed6a-8115-44b2-a7b0-3f0240d8a262" alt="Практическая 1" height="100" />
+- [ ] [Практическая 2: скрины и пояснения](http://example.com)
+      <br><img src="https://github.com/user-attachments/assets/22de82ab-d888-4619-a894-e55b0f8fc4fc" alt="Практическая 2" height="100" />
+- [ ] [Скрипт на очищения директории](https://docs.google.com/document/d/1R7esTlGhatG2YGnwbu44dX6_qH5vQ-j_/edit?usp=sharing&ouid=112130077212027594879&rtpof=true&sd=true)
+- [ ] [Графики на gnuplot: 4 2д графика и один 3д график](https://docs.google.com/document/d/1zYQ27m0uSQpuhF7bsKYGmbbJjL0dgeC5/edit?usp=sharing&ouid=112130077212027594879&rtpof=true&sd=true)
+- [ ] [Порядок действий для смены пароля](https://docs.google.com/presentation/d/1E39qqj6rjPiEb3QkK-dvxh6fd_dpW4yP/edit?usp=sharing&ouid=112130077212027594879&rtpof=true&sd=true)
 
-    - [ ] [акция «Правнуки Победы»](https://t.me/luberteh/6804)
 ## Участие в жизни техникума (саморазвитие)
 ____
 - [ ] Поставить реакцию на запись в телеграмм, если Вы в ней присутствуете (далее идут примеры записей)
