@@ -48,6 +48,7 @@ ____
 - [ ] [Скрипт на очищения директории](https://docs.google.com/document/d/1R7esTlGhatG2YGnwbu44dX6_qH5vQ-j_/edit?usp=sharing&ouid=112130077212027594879&rtpof=true&sd=true)
 - [ ] [Графики на gnuplot: 4 2д графика и один 3д график](https://docs.google.com/document/d/1zYQ27m0uSQpuhF7bsKYGmbbJjL0dgeC5/edit?usp=sharing&ouid=112130077212027594879&rtpof=true&sd=true)
 - [ ] [Порядок действий для смены пароля](https://docs.google.com/presentation/d/1E39qqj6rjPiEb3QkK-dvxh6fd_dpW4yP/edit?usp=sharing&ouid=112130077212027594879&rtpof=true&sd=true)
+- [ ] контрольная работа по графикам
 
 ## Участие в жизни техникума (саморазвитие)
 ____
